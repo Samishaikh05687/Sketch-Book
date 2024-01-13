@@ -3,7 +3,7 @@ import cx from 'classnames';
 import { useDispatch ,useSelector } from 'react-redux'
 import { faPencil,faEraser,faRotateLeft,faRotateRight,faFileArrowDown} from '@fortawesome/free-solid-svg-icons'
 import styles from "./index.module.css"
-import { MENU_ITEMS } from '@/src/pages/constants'
+import { MENU_ITEMS } from '@/src/constants'
 import { menuItemClick,actionItemClick } from '@/src/slice/menuslice'
 import classNames from 'classnames'
 

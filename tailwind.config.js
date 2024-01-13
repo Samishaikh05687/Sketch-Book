@@ -19,7 +19,7 @@ module.exports = {
      shadow2: '0 0 0 1px #4a47b1',
      border1: '#b8b8b8',
      border2: '#d6d6d6',
-     text1: '#3d3d3d',
+     text1: '#212121',
      text2: '#CFCFCF'  
   }
   },
